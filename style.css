@@ -79,3 +79,43 @@ body{
     color:white;
     font-weight: 700;
 }
+
+
+.card{
+    position: relative;
+   border:none;
+
+    
+}
+.card img{
+    border-radius: 25px;
+    width:100%;
+}
+.card-title{
+    background-color: rgba(255, 140, 0, 0.993);
+    width:50%;
+    height: 60px;
+    text-align: center;
+    padding-top: 20px;
+    border-radius:  0 15px 0px 10px;
+    position: relative;
+    margin-top: -75px;
+    margin-left: -16px;
+}
+
+.anchor{
+    text-decoration: none;
+    color:black;
+    font-weight: 700;
+    margin-left: -16px;
+    margin-top: 20px;
+}
+.anchor-two{
+    text-decoration: none;
+    color:rgba(255, 127, 80, 0.993);
+    background-color: rgba(194, 26, 104, 0.322);
+    padding:5px 10px 5px 10px;
+    font-weight: 700;
+    margin-left: -16px;
+  
+}
