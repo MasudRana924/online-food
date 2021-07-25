@@ -1,0 +1,13 @@
+body{
+    margin:0;
+}
+.navbar-style{
+    margin-left:150px;
+}
+.button{
+    padding: 0px 20px 0px 20px;
+    font-weight: 600;
+}
+.fa-map-marker-alt{
+    color: darkorange;
+}
